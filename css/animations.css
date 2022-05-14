@@ -1,0 +1,29 @@
+.tarjeta:hover {
+  transform: scale(1.1);
+  transition: 1s;
+}
+
+.tarjeta {
+  transform: scale(1);
+  transition: 1s;
+}
+
+section figure img:hover {
+  transform: rotateZ(20deg);
+  transition: 1s;
+}
+
+section figure img {
+  transform: rotateZ(0deg);
+  transition: 1s;
+}
+
+.iconos a img:hover {
+  transform: rotateZ(40deg);
+  transition: 1s;
+}
+
+.iconos a img {
+  transform: rotateZ(0deg);
+  transition: 1s;
+}
