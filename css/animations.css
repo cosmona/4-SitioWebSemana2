@@ -9,7 +9,8 @@
 }
 
 section figure img:hover {
-  transform: rotateZ(20deg);
+  content: url(../imagenes/fotoreal.jpg);
+  transform: rotateZ(1080deg);
   transition: 1s;
 }
 
