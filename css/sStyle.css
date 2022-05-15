@@ -84,7 +84,7 @@ small {
   font-family: "Rajdhani", sans-serif;
 }
 
-/*****************about*******************/
+/********************************************************about: */
 
 article {
   display: flex;
@@ -114,7 +114,7 @@ section figure > img {
   margin-top: 2px;
 }
 
-/**********************Proyectos************/
+/***************************************************************Proyectos:*/
 
 .tira,
 .tira2 {
@@ -180,9 +180,8 @@ section figure > img {
   list-style: none;
 }
 
+/************************************************************For mobile phones: */
 @media only screen and (max-width: 768px) {
-  /* For mobile phones: */
-
   article {
     width: 400px;
     gap: 10px;
