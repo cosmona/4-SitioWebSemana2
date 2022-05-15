@@ -2,6 +2,10 @@
 
 Dale estilos a tu porfolio (ejercicio 2-SitioWeb de S1-LayoutI) siguiendo este ejemplo:
 
+![github1about](./imagenes/github1.png)
+![github1proyectos](./imagenes/github2.png)
+![github1contacto](./imagenes/github3.png)
+
 ![about](./imagenes/about.png)
 ![proyectos](./imagenes/proyectos.png)
 ![contacto](./imagenes/contacto.png)
