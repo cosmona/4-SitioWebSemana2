@@ -4,7 +4,7 @@
 * {
   margin: 0;
   padding: 0;
-  --colorFondo: rgb(255, 255, 255);
+  --colorFondo: rgba(253, 253, 253, 0.719);
   --sombra: rgb(255, 0, 0);
   --sombra2: rgb(0, 183, 255);
 
